@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StopSpreadCoVID19</string>
+    <string name="pandamic_positive_alert">Alert!!  COVID-19 positive patient is around you wanted to alert you to keep 6 ft distance and take care of Yourself and Society.</string>
+    <string name="appreciate_message">Thank you and Appreciate it!</string>
+    <string name="monitor">monitor</string>
+    <string name="positive">positive</string>
+    <string name="wanttoupdate">wanttoupdateothers</string>
+    <string name="annonymous">Anonymous</string>
+    <string name="log_positive" >Log Positive</string>
+    <string name="stop_spread_msg">Stop Pandamic Covid-19 together</string>
+    <string name="get_well_soon">Get well soon! You have logged Covid-19 positive</string>
+    <string name="log_negative">Log Negative</string>
+    <string name="stop_update" >Stop Update</string>
+    <string name="update_people">Update People</string>
+    <string name="monitor_started">Monitor started</string>
+
+</resources>
